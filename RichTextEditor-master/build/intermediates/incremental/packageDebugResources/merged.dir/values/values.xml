@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="colorDisabledButtonBackground">#FFFFFF</color>
+    <color name="colorEnabledAndAllowedButtonBackground">#20e167</color>
+    <color name="colorEnabledAndNotAllowedButtonBackground">#bcf6d1</color>
+    <color name="gray">#FF888888</color>
+    <color name="green">#FF00FF00</color>
+    <color name="ltGray">#FFCCCCCC</color>
+    <color name="ltrGray">#FFE8E8E8</color>
+    <color name="red">#FFFF0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <dimen name="ambilwarna_color_square">30dp</dimen>
+    <dimen name="ambilwarna_color_square_view">300dp</dimen>
+    <dimen name="ambilwarna_hsvHeight">240dp</dimen>
+    <dimen name="ambilwarna_hsvWidth">240dp</dimen>
+    <dimen name="ambilwarna_hueWidth">44dp</dimen>
+    <dimen name="ambilwarna_spacer_12">12dp</dimen>
+    <dimen name="ambilwarna_spacer_6">6dp</dimen>
+    <dimen name="ambilwarna_spacer_8">8dp</dimen>
+    <dimen name="border_width">1dp</dimen>
+    <dimen name="editor_min_height">100dp</dimen>
+    <string name="app_name">RichEditText</string>
+    <string name="desc_bg_color">background Color</string>
+    <string name="desc_bold">Bold</string>
+    <string name="desc_bullets">Bullet Points</string>
+    <string name="desc_close">Close Editor Options</string>
+    <string name="desc_image">Insert Image</string>
+    <string name="desc_italic">Italic</string>
+    <string name="desc_numbers">Number</string>
+    <string name="desc_text_color">Text Color</string>
+    <string name="desc_underline">Underline</string>
+    <string name="formatted_text_preview">Hello there!</string>
+</resources>

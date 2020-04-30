@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:1-10:12
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:1-10:12
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:1-10:12
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:1-10:12
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:1-10:12
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:1-10:12
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:1-10:12
+	package
+		ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:2:5-59
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+		ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:1-10:12
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+		ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:1-10:12
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:1:11-69
+application
+ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:4:5-8:19
+	android:supportsRtl
+		ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:6:9-35
+	android:allowBackup
+		ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml:5:9-36
+uses-sdk
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+		ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+		ADDED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml
+		INJECTED from G:\Coding\Android Projects\BigNerdRanch\WatashinoNikki\RichTextEditor-master\AndroidManifest.xml

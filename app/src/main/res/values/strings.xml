@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WatashinoNikki</string>
+
+    <string-array name="weather_array">
+        <item>Cloudy</item>
+        <item>Sunny</item>
+        <item>Windy</item>
+        <item>Stormy</item>
+        <item>Snowy</item>
+        <item>Rainy</item>
+    </string-array>
+
+</resources>
